@@ -1,0 +1,6 @@
+sounddevice
+numpy
+scipy
+google-generativeai
+streamlit
+huggingface_hub
